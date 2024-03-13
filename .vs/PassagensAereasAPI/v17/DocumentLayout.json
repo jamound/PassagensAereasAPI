@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Meus Projetos\\PassagensAereasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|c:\\meus projetos\\passagensaereasapi\\passagensaereasapi\\services\\passagemaereaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|solutionrelative:passagensaereasapi\\services\\passagemaereaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|c:\\meus projetos\\passagensaereasapi\\passagensaereasapi\\controllers\\passagemaereacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|solutionrelative:passagensaereasapi\\controllers\\passagemaereacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|c:\\meus projetos\\passagensaereasapi\\passagensaereasapi\\profiles\\passagemaereaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|solutionrelative:passagensaereasapi\\profiles\\passagemaereaprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|c:\\meus projetos\\passagensaereasapi\\passagensaereasapi\\dtos\\passagemaerearesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|solutionrelative:passagensaereasapi\\dtos\\passagemaerearesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|c:\\meus projetos\\passagensaereasapi\\passagensaereasapi\\models\\passagemaereagol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|solutionrelative:passagensaereasapi\\models\\passagemaereagol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|c:\\meus projetos\\passagensaereasapi\\passagensaereasapi\\models\\passagemaerealatam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FB1543-B53C-4988-A9D9-B8BC63E82B3E}|PassagensAereasAPI\\PassagensAereasAPI.csproj|solutionrelative:passagensaereasapi\\models\\passagemaerealatam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassagemAereaController.cs",
+              "DocumentMoniker": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Controllers\\PassagemAereaController.cs",
+              "RelativeDocumentMoniker": "PassagensAereasAPI\\Controllers\\PassagemAereaController.cs",
+              "ToolTip": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Controllers\\PassagemAereaController.cs",
+              "RelativeToolTip": "PassagensAereasAPI\\Controllers\\PassagemAereaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:12:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PassagemAereaResponse.cs",
+              "DocumentMoniker": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\DTOs\\PassagemAereaResponse.cs",
+              "RelativeDocumentMoniker": "PassagensAereasAPI\\DTOs\\PassagemAereaResponse.cs",
+              "ToolTip": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\DTOs\\PassagemAereaResponse.cs",
+              "RelativeToolTip": "PassagensAereasAPI\\DTOs\\PassagemAereaResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:05:37.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassagemAereaProfile.cs",
+              "DocumentMoniker": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Profiles\\PassagemAereaProfile.cs",
+              "RelativeDocumentMoniker": "PassagensAereasAPI\\Profiles\\PassagemAereaProfile.cs",
+              "ToolTip": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Profiles\\PassagemAereaProfile.cs",
+              "RelativeToolTip": "PassagensAereasAPI\\Profiles\\PassagemAereaProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T21:01:15.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassagemAereaLatam.cs",
+              "DocumentMoniker": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Models\\PassagemAereaLatam.cs",
+              "RelativeDocumentMoniker": "PassagensAereasAPI\\Models\\PassagemAereaLatam.cs",
+              "ToolTip": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Models\\PassagemAereaLatam.cs",
+              "RelativeToolTip": "PassagensAereasAPI\\Models\\PassagemAereaLatam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:56:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PassagemAereaService.cs",
+              "DocumentMoniker": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Services\\PassagemAereaService.cs",
+              "RelativeDocumentMoniker": "PassagensAereasAPI\\Services\\PassagemAereaService.cs",
+              "ToolTip": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Services\\PassagemAereaService.cs",
+              "RelativeToolTip": "PassagensAereasAPI\\Services\\PassagemAereaService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:21:38.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassagemAereaGol.cs",
+              "DocumentMoniker": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Models\\PassagemAereaGol.cs",
+              "RelativeDocumentMoniker": "PassagensAereasAPI\\Models\\PassagemAereaGol.cs",
+              "ToolTip": "C:\\Meus Projetos\\PassagensAereasAPI\\PassagensAereasAPI\\Models\\PassagemAereaGol.cs",
+              "RelativeToolTip": "PassagensAereasAPI\\Models\\PassagemAereaGol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:11:42.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

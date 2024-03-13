@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "n7fxhcQ2g+ygrBqrFsE5UZxxgISCSWobFnIRVVzLCnI=",
+  "Source": "PassagensAereasAPI",
+  "BasePath": "_content/PassagensAereasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
